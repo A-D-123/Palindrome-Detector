@@ -7,22 +7,21 @@ namespace Palindrome_Detector
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a word or phrase to detect if it is a palindrome");
-            String ogWord = Console.ReadLine();
+            string word = Console.ReadLine();
 
-            String word = Regex.Replace(ogWord, "[^a-zA-Z0-9]", "").ToLower();
-            
-            char[] letters = word.ToCharArray();
-            Array.Reverse(letters);
+            Console.Write($"'{word}'");
 
-            String rWord = new String(letters);
+            word = Regex.Replace(word, "[^a-zA-Z0-9]", "").ToLower();
 
-            if (word == rWord)
+            string revWord = new string(word.Reverse().ToArray());
+
+            if (word == revWord)
             {
-                Console.WriteLine($"'{ogWord}' is a palindrome");
+                Console.WriteLine(" is a palindrome");
             }
             else
             {
-                Console.WriteLine($"'{ogWord}' is not a palindrome");
+                Console.WriteLine(" is not a palindrome");
             } 
 
             Console.ReadKey();

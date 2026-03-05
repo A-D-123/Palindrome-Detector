@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj": {}
+    "C:\\Users\\alexd\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj": {
+    "C:\\Users\\alexd\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj",
+        "projectUniqueName": "C:\\Users\\alexd\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj",
         "projectName": "Palindrome Detector",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\Palindrome Detector\\Palindrome Detector\\obj\\",
+        "projectPath": "C:\\Users\\alexd\\source\\repos\\Palindrome Detector\\Palindrome Detector\\Palindrome Detector.csproj",
+        "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexd\\source\\repos\\Palindrome Detector\\Palindrome Detector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +39,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

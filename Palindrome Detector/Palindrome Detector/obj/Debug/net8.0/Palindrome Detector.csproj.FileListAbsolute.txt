@@ -12,3 +12,17 @@ C:\Users\Alex\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net
 C:\Users\Alex\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.pdb
 C:\Users\Alex\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.genruntimeconfig.cache
 C:\Users\Alex\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\ref\Palindrome Detector.dll
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\bin\Debug\net8.0\Palindrome Detector.exe
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\bin\Debug\net8.0\Palindrome Detector.deps.json
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\bin\Debug\net8.0\Palindrome Detector.runtimeconfig.json
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\bin\Debug\net8.0\Palindrome Detector.dll
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\bin\Debug\net8.0\Palindrome Detector.pdb
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.AssemblyInfo.cs
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.dll
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\refint\Palindrome Detector.dll
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.pdb
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\Palindrome Detector.genruntimeconfig.cache
+C:\Users\alexd\source\repos\Palindrome Detector\Palindrome Detector\obj\Debug\net8.0\ref\Palindrome Detector.dll
